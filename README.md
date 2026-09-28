@@ -21,11 +21,12 @@ No programming experience is required to use a deployed instance. Follow the ins
 
 A public deployment is available on **Posit Connect Cloud** as a demonstration instance, allowing the PRIDe-RL framework to be evaluated directly in a web browser without installing R or RStudio.
 
-<div align="center">
-  <p><strong>👇 Click below to access the PRIDe-RL Shiny Connect live demo 👇</strong></p>
-  <a href="https://labrgroup-pride-rl.share.connect.posit.cloud/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LAUNCH_PRIDe--RL_DEMO-00A64F?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Launch the PRIDe-RL live demo on Posit Connect Cloud"/>
-  </a>
+### 👇 **Click below to access the PRIDe-RL Shiny Connect live demo** 👇
+
+<a href="https://labrgroup-pride-rl.share.connect.posit.cloud/" target="_blank">
+  <img src="https://img.shields.io/badge/Launch%20LabRI%20Demo-%23009C3B?style=for-the-badge&logo=google-chrome&logoColor=%23009C3B&labelColor=%23FFDF00" alt="Launch the PRIDe-RL live demo on Posit Connect Cloud" style="height: 50px;">
+</a>
+
 </div>
 
 The instance runs on the **Posit Connect Cloud Free plan** (4 GB memory, 1 CPU, 20 monthly active hours, and a maximum of 5 hosted applications). Under these constraints, the demonstration may exhibit temporary unavailability, instability, or memory-related failures when processing large datasets or reports containing many elements. It is intended strictly as a **showcase and evaluation environment**, not as a production system, and must not be used to process sensitive or identifiable laboratory data.
