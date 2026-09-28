@@ -25,6 +25,7 @@ A public deployment is available on **Posit Connect Cloud** as a demonstration i
 
 <a href="https://labrgroup-pride-rl.share.connect.posit.cloud/" target="_blank">
 <a href="https://labrgroup-pride-rl.share.connect.posit.cloud/" target="_blank" rel="noopener noreferrer">
+<a href="https://labrgroup-pride-rl.share.connect.posit.cloud/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/%20-Launch%20PRIDe--RL%20Demo-%23009C3B?style=for-the-badge&logo=googlechrome&logoColor=%23009C3B&labelColor=%23FFDF00" alt="Launch the PRIDe-RL live demo on Posit Connect Cloud" style="height: 50px;">
 </a>
 
