@@ -2,6 +2,7 @@
 
 ![](https://img.shields.io/github/license/labrgrupo/PRIDE-RL_shiny_connect.svg)
 ![](https://img.shields.io/github/last-commit/labrgrupo/PRIDE-RL_shiny_connect/main.svg)
+[![DOI](https://zenodo.org/badge/1393486842.svg)](https://doi.org/10.5281/zenodo.23738461)
 
 <a href="https://github.com/labrgrupo/PRIDE-RL_shiny_connect/blob/main/logo_PRIDe-RL.png">
   <img src="logo_PRIDe-RL.png" width="300px" align="right" alt="PRIDe-RL logo"/>
